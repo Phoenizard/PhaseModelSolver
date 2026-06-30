@@ -1,3 +1,6 @@
 .claude/
 doc/paper/
 doc/debate/
+
+.DS_Store
+.DS_Store.*
